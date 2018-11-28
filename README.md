@@ -1,2 +1,2 @@
 # wblog
-My Wife's Blog
+Deprecated
